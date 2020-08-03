@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Acid 👋
+I'm a developer and general nerd!
+
+## Projects
+- TakeTenBot
 
 <!--
 **xlxAciDxlx/xlxAciDxlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
